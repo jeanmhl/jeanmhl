@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeanmhl!
-- 👀 Right now I’m mostly interested in coding and data science. 
+- 👀 Right now I’m mostly interested in coding data science projects. 
 - 🌱 I’m currently learning Python (>Django, ML) and Javascript (>Web).
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 Please feel free to reach me via GitHub.
